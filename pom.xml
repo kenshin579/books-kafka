@@ -9,5 +9,7 @@
 
     <modules>
         <module>chap4-producer</module>
+        <module>chap5-consumer</module>
+        <module>chap8-stream</module>
     </modules>
 </project>
