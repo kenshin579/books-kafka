@@ -1,4 +1,4 @@
-package myapps;
+package kr.pe.advenoh;
 
 import org.apache.kafka.common.serialization.Serdes;
 import org.apache.kafka.streams.KafkaStreams;
